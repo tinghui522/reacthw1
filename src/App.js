@@ -22,7 +22,7 @@ function App() {
             <li><a href="concert.html">Concert</a></li>                  
         </ul>  
     </nav>
-    <div className="navsquare"></div>
+    
     <div className="bigIU">
         <img src="images/1920/组 230@2x.png" className="IMIU"/>
     </div>
