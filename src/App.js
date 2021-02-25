@@ -45,7 +45,7 @@ function App() {
                 <p>Debut Day<br/>2008.09.18</p>
             
             
-                <img src="images\1920\jeNsfGG@2x.png" className="bgiu"/>
+               
             
         </div>
 
