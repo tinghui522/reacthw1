@@ -1,6 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.css';
+import './index.css';
 
 function App() {
   return (
@@ -25,8 +26,9 @@ function App() {
           <a href="concert.html" ><li>Concert</li></a>           
         </ul>  
         <div className="navsquare"></div>
-    <div className="bigIU">
-        <img src="images/1920/组 230@2x.png" className="IMIU"/>
+    <div >
+        <img src="images/1920/蒙版组 74@2x.jpg" className="bigIU"/>
+        
     </div>
     
         <div className="aboutlyrics">"<br/>
